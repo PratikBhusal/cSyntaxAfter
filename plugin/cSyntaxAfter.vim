@@ -1,5 +1,6 @@
 " File: cSyntaxAfter.vim
 " Author: Sergey Vlasov <sergey@vlasov.me>
+" Fork: Pratik Bhusal
 " Last Change: 2016-10-10
 " Version: 0.4
 ""
